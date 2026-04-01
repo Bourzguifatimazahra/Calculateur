@@ -1,53 +1,29 @@
-# Project Title
+# Calculateur
+
+## Project Overview
+The Calculateur is a comprehensive tool designed for performing various calculations seamlessly and efficiently. This project is aimed at providing users with a user-friendly interface and various computational functions.
 
 ## Live Demo
-Check out the live demo of the project [here](https://calculateurcpa.netlify.app).
+You can try out the live demo of the project at: [calculateurcpa.netlify.app](https://calculateurcpa.netlify.app)
 
 ## Technologies Used
+- **JavaScript**
+- **HTML5**
+- **CSS3**
 
-### React
-![React](https://reactjs.org/logo-og.png)
+## Badges and Logos
+![JavaScript](https://img.shields.io/badge/Javascript-ES6-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### TypeScript
-![TypeScript](https://www.typescriptlang.org/assets/images/icons/typescript-icon.svg)
+## Installation
+To run the project locally, clone the repository and open the `index.html` in your browser.
 
-### Vite
-![Vite](https://vitejs.dev/logo.svg)
+## Usage
+Simply enter the values you wish to calculate and hit the calculate button for results!
 
-### Tailwind CSS
-![Tailwind CSS](https://tailwindcss.com/img/logo.svg)
+## Contributing
+Contributions are welcome! Please open a pull request to contribute to the project.
 
-### Radix UI
-![Radix UI](https://www.radix-ui.com/logo.svg)
-
-### shadcn/ui
-![shadcn/ui](https://shadcn.dev/logo.png)
-
-### React Router
-![React Router](https://reactrouter.com/_next/static/media/logo.7a93c4a2.svg)
-
-### TanStack Query
-![TanStack Query](https://tanstack.com/query/latest/images/tanstack-query-logo.svg)
-
-### Zod
-![Zod](https://raw.githubusercontent.com/colinhacks/zod/main/docs/src/images/zod.svg)
-
-### Recharts
-![Recharts](https://recharts.org/assets/recharts-logo.svg)
-
-### Lucide
-![Lucide](https://lucide.dev/logo.svg)
-
-### ESLint
-![ESLint](https://eslint.org/images/logo.svg)
-
-### Vitest
-![Vitest](https://vitest.dev/logo.svg)
-
-### Other Dependencies
-
-- Additional dependencies and logos can be added here.
-
----
-
-*Updated on 2026-04-01 11:20:44 UTC*
+## License
+This project is licensed under the MIT License.
